@@ -1,0 +1,38 @@
+h1{
+    color: rgb(234, 6, 6);
+}
+h2{
+    color: orangered;
+    font-style: italic;
+}
+.ol{
+    color: brown;
+    line-height: 50px;
+}
+.ul{
+    color: brown;
+    letter-spacing: 5px;
+   
+}
+.p{
+    color: brown;  
+}
+a{
+    background-color: yellow;
+    text-decoration: none;
+    font-style: italic;
+    color: red;
+}
+#del{
+    text-decoration: line-through;
+    font-weight: bold;
+    
+}
+.bg1{
+    background-color: yellow;
+    font-weight: bold;
+}
+.italicbg{
+font-style: italic;
+text-decoration: underline;
+}
